@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Railsdemo::Application.load_tasks
+RailsBasics::Application.load_tasks
